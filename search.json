@@ -18,7 +18,7 @@
     "href": "syllabus.html#goals",
     "title": "Syllabus",
     "section": "Goals",
-    "text": "Goals\nYour final grade will be determined by the extent to which you\n\n(further) develop spatial reasoning based on ideas of vectors and dot-products,\nbecome fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,\nbecome fluent in matrix algebra and determinants,\ndevelop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigen vectors, both computationally and geometrically, and\nget an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates."
+    "text": "Goals\nYour final grade will be determined by the extent to which you\n\n(further) develop spatial reasoning based on ideas of vectors and dot-products,\nbecome fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,\nbecome fluent in matrix algebra and determinants,\ndevelop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigenvectors, both computationally and geometrically, and\nget an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates."
   },
   {
     "objectID": "syllabus.html#grading",
@@ -53,6 +53,6 @@
     "href": "index.html",
     "title": "Linear Algebra (Spring 2025)",
     "section": "",
-    "text": "Resources for Linear Algebra (Spring 2025) (34851)."
+    "text": "Resources for Linear Algebra (Spring 2025) (34851).\nYou might be looking for my course notes."
   }
 ]
