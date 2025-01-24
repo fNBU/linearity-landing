@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "course:\n  title: Linear Algebra\n  instructor: \n    name: Adam Layne\n    email: adamlayne@lclark.edu\n    office: BoDine 304 (Andy's office)\n    office hours: Monday, Tuesday, Thursday,\n      Friday 10:30AM - 11:30AM\n  notes: https://fnbu.pw/linearity-book/\n  time: Monday, Tuesday, Thursday,\n    Friday 11:30AM - 12:30PM\n  location: John R. Howard Hall, \n    Room 135"
+  },
+  {
+    "objectID": "syllabus.html#objective",
+    "href": "syllabus.html#objective",
+    "title": "Syllabus",
+    "section": "Objective",
+    "text": "Objective\nTo learn how to employ and work with vectors and matrices in finite dimensional vector spaces (\\(\\mathbb R^2, \\mathbb R^3, \\mathbb R^n\\)) and abstract (including infinite dimensional) vector spaces."
+  },
+  {
+    "objectID": "syllabus.html#goals",
+    "href": "syllabus.html#goals",
+    "title": "Syllabus",
+    "section": "Goals",
+    "text": "Goals\nYour final grade will be determined by the extent to which you\n\n(further) develop spatial reasoning based on ideas of vectors and dot-products,\nbecome fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,\nbecome fluent in matrix algebra and determinants,\ndevelop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigen vectors, both computationally and geometrically, and\nget an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nYour final letter grade is based on the evidence I have that you accomplished the goals in the previous section. To help me make this assessment, I will assign and record grades for the following types of work:\n\nweekly homework assignments, due the first class day of the week, starting in week 2\nweekly quizzes, at the beginning of the second class day of the week, starting in week 2\none or two midterm exams\na final exam\n\nMore information on the format of these and their grading can be found below (Assessments)."
+  },
+  {
+    "objectID": "syllabus.html#course-notes",
+    "href": "syllabus.html#course-notes",
+    "title": "Syllabus",
+    "section": "Course notes",
+    "text": "Course notes\nThe authoritative resource for the material covered in this class are the lectures; you should come to all lectures and, if notes benefit you, take them. I am writing up notes in an open-source form available at https://fnbu.pw/linearity-book/. This document is also where the course exercises will appear. I may or may not keep up to pace with the electronic notes; again, the lectures are the authoritative source for the material.\n\nOther resources\nWhen I was in graduate school, I learned that learning a subject from two or three texts that take different approaches is a good pattern of learning for me. If you want to see other presentations of the material in this course, you might have a look at the following books which are both 0-cost and recently updated.\n\nLinear Algebra by Jim Hefferon. This book begins rather differently than my course, but is otherwise a quality text. Note that it is a bit complicated to acquire the free pdf:\n\ngo to the book’s page on leanpub https://leanpub.com/linalgebra\nslide the “YOU PAY” slider to $0 (Hefferon doesn’t get any money even if you put it above $0)\nproceed with the purchase (which requires your email address)\n\nUnderstanding Linear Algebra by David Austin is also a reasonable resource. Get it at https://understandinglinearalgebra.org/home.html."
+  },
+  {
+    "objectID": "syllabus.html#office-hours",
+    "href": "syllabus.html#office-hours",
+    "title": "Syllabus",
+    "section": "Office hours",
+    "text": "Office hours\nThe hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.\n\nAdam’s availability\nI’m an adjunct professor; at LC, I’m not employed full-time and this is the only course I’m teaching this term. I may not be available in my office as many hours as you are used to from other professors.\nI’m using Paul’s door code to indicate my availability:\n\nDoor open: Please come in and ask questions! (If my office hours have started but my door is not in this state, please knock gently.)\nDoor cracked: I’m busy but here. You might be able to get help, but I might say no.\nDoor closed: I’m not in the office, or I am in but am not to be disturbed."
+  },
+  {
+    "objectID": "syllabus.html#assessments",
+    "href": "syllabus.html#assessments",
+    "title": "Syllabus",
+    "section": "Assessments",
+    "text": "Assessments\nHere are details on the three kinds of assessments that will be assigned.\n\nHomework\nHomework exercises will be assigned weekly from the course notes.\nNot all problems will be assigned. If you want more practice, you can do the unassigned problems or ask for recommended problems from the other resources.\nHomework will be peer-reviewed. Each week, I will tell you another student in the class who will review your work, this person will be different each week. I will take the time spent reviewing into consideration when choosing how much work to assign.\nYou will give your homework to your reviewer, and receive a homework from another student. On Friday, you will return this student’s reviewed homework to me in class.\nI STRONGLY encourage you to meet in one or more groups outside of class time to do the review collaboratively.\nI will look over the reviewed homework and record numerical grades, then return the homeworks (hopefully on Monday).\n\nReview rubric\nWhen you are reviewing another student’s homework, you will not assign numerical grades. (I will do that after I collect the reviewed assignments.)\nWrite (the latin letters should be in ALL CAPITAL) next to each problem one of the following\n\nGREAT: the problem is correct and there are no issues of clarity\nGREAT \\(-\\varepsilon\\): the problem is correct except for one or two small errors that don’t indicate a lack of understanding (eg copying a line, but writing 2 instead of 3, accidentally changing a \\(+\\) to a \\(-\\)). There are no issues of clarity except for those introduced by the small error. You should clearly mark the small error(s) justifying the \\(-\\varepsilon\\).\nUNCLEAR: the problem looks complete, but isn’t correct because of a mistake in methodology (an incorrect technique is used to solve the problem, or a correct technique is used incorrectly). You should write a comment about what you think was attempted and a hint toward a better solution (“try … when you see …”).\nINCOMPLETE: the problem is not finished in a major way.\nMISSING: the problem was assigned but there is no solution, or there is only the stub of a solution.\n\n\n\n\nQuizzes\nQuizzes of 2 or 3 questions will happen each week (during the first 10 minutes of class) to check that you’re keeping pace with the course. These are graded directly by me.\n\n\nExams\nThere will be one or two midterm exams (depending on the pace of the course). The exams have an in-class (50% of exam grade) and take-home (50% of exam grade) portion.\n\nIn-class: The in-class exam is designed to be completed within 60 minutes, without notes or technology\nTake-home: The take-home exam is exactly the same as the in-class exam. You may use whatever resources you want, and may work in groups to complete it. However, you must write out your own solutions and may not copy a solution word-for-word from someone else."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linear Algebra (Spring 2025)",
+    "section": "",
+    "text": "Resources for Linear Algebra (Spring 2025) (34851)."
+  }
+]

@@ -1,0 +1,130 @@
+---
+title: "Syllabus"
+---
+
+```yaml
+course:
+  title: Linear Algebra
+  instructor: 
+    name: Adam Layne
+    email: adamlayne@lclark.edu
+    office: BoDine 304 (Andy's office)
+    office hours: Monday, Tuesday, Thursday,
+      Friday 10:30AM - 11:30AM
+  notes: https://fnbu.pw/linearity-book/
+  time: Monday, Tuesday, Thursday,
+    Friday 11:30AM - 12:30PM
+  location: John R. Howard Hall, 
+    Room 135
+```
+
+## Objective
+
+To learn how to employ and work with vectors and matrices in finite dimensional vector spaces ($\mathbb R^2, \mathbb R^3, \mathbb R^n$) and abstract (including infinite dimensional) vector spaces.
+
+## Goals
+
+Your final grade will be determined by the extent to which you
+
+1.  (further) develop spatial reasoning based on ideas of vectors and dot-products,
+
+1.  become fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,
+
+1.  become fluent in matrix algebra and determinants,
+
+1.  develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigen vectors, both computationally and geometrically, and
+
+1.  get an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates. 
+
+## Grading
+
+Your final letter grade is based on the evidence I have that you accomplished the goals in the previous section.
+To help me make this assessment, I will assign and record grades for the following types of work:
+
+- weekly homework assignments, due the first class day of the week, starting in week 2
+- weekly quizzes, at the beginning of the second class day of the week, starting in week 2
+- one or two midterm exams
+- a final exam
+
+More information on the format of these and their grading can be found below ([Assessments](#assessments)).
+
+## Course notes
+
+The authoritative resource for the material covered in this class are the lectures; you should come to all lectures and, if notes benefit you, take them.
+I am writing up notes in an open-source form available at [https://fnbu.pw/linearity-book/](https://fnbu.pw/linearity-book/).
+This document is also where the course exercises will appear.
+I may or may not keep up to pace with the electronic notes; again, the lectures are the authoritative source for the material.
+
+### Other resources
+
+When I was in graduate school, I learned that learning a subject from two or three texts that take different approaches is a good pattern of learning for me.
+If you want to see other presentations of the material in this course, you might have a look at the following books which are both 0-cost and recently updated.
+
+- *Linear Algebra* by Jim Hefferon. This book begins rather differently than my course, but is otherwise a quality text. Note that it is a bit complicated to acquire the free pdf:
+  1. go to the book's page on leanpub [https://leanpub.com/linalgebra](https://leanpub.com/linalgebra)
+  1. slide the "YOU PAY" slider to $0 (Hefferon doesn't get any money even if you put it above $0)
+  1. proceed with the purchase (which requires your email address)
+-  *Understanding Linear Algebra* by David Austin is also a reasonable resource. Get it at [https://understandinglinearalgebra.org/home.html](https://understandinglinearalgebra.org/home.html).
+
+## Office hours
+
+The hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.
+
+### Adam's availability
+
+I'm an adjunct professor; at LC, I'm not employed full-time and this is the only course I'm teaching this term.
+I may not be available in my office as many hours as you are used to from other professors.
+
+I'm using Paul's door code to indicate my availability:
+
+- Door open: Please come in and ask questions! (If my office hours have started but my door is not in this state, please knock gently.)
+- Door cracked: I'm busy but here. You might be able to get help, but I might say no.
+- Door closed: I'm not in the office, or I am in but am not to be disturbed.
+
+## Assessments
+
+Here are details on the three kinds of assessments that will be assigned.
+
+### Homework
+
+Homework exercises will be assigned weekly from the [course notes](#notes).
+
+Not all problems will be assigned.
+If you want more practice, you can do the unassigned problems or ask for recommended problems from the [other resources](#other-resources).
+
+Homework will be peer-reviewed.
+Each week, I will tell you another student in the class who will review your work, this person will be different each week.
+I will take the time spent reviewing into consideration when choosing how much work to assign.
+
+You will give your homework to your reviewer, and receive a homework from another student.
+On Friday, you will return this student's reviewed homework to me in class.
+
+I STRONGLY encourage you to meet in one or more groups outside of class time to do the review collaboratively.
+
+I will look over the reviewed homework and record numerical grades, then return the homeworks (hopefully on Monday).
+
+#### Review rubric
+
+When you are reviewing another student's homework, you will not assign numerical grades.
+(I will do that after I collect the reviewed assignments.)
+
+Write (the latin letters should be in ALL CAPITAL) next to each problem one of the following
+
+- GREAT: the problem is correct and there are no issues of clarity
+- GREAT $-\varepsilon$: the problem is correct except for one or two small errors that don't indicate a lack of understanding (eg copying a line, but writing 2 instead of 3, accidentally changing a $+$ to a $-$). There are no issues of clarity except for those introduced by the small error. You should clearly mark the small error(s) justifying the $-\varepsilon$.
+- UNCLEAR: the problem looks complete, but isn't correct because of a mistake in methodology (an incorrect technique is used to solve the problem, or a correct technique is used incorrectly). You should write a comment about what you think was attempted and a hint toward a better solution ("try ... when you see ...").
+- INCOMPLETE: the problem is not finished in a major way.
+- MISSING: the problem was assigned but there is no solution, or there is only the stub of a solution.
+
+### Quizzes
+
+Quizzes of 2 or 3 questions will happen each week (during the first 10 minutes of class) to check that you're keeping pace with the course.
+These are graded directly by me.
+
+### Exams
+
+There will be one or two midterm exams (depending on the pace of the course).
+The exams have an in-class (50% of exam grade) and take-home (50% of exam grade) portion.
+
+- In-class: The in-class exam is designed to be completed within 60 minutes, without notes or technology
+- Take-home: The take-home exam is *exactly the same* as the in-class exam. You may use whatever resources you want, and may work in groups to complete it. However, you must write out your own solutions and may not copy a solution word-for-word from someone else.

@@ -1,0 +1,27 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: trunk
+
+project:
+  type: website
+
+website:
+  title: "Linear Algebra"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - syllabus.qmd
+
+format:
+  html:    
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+
+    css: styles.css
+    toc: true
+
+
+
