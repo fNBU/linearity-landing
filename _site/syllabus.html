@@ -244,7 +244,7 @@ window.Quarto = {
 <li><p>(further) develop spatial reasoning based on ideas of vectors and dot-products,</p></li>
 <li><p>become fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,</p></li>
 <li><p>become fluent in matrix algebra and determinants,</p></li>
-<li><p>develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigen vectors, both computationally and geometrically, and</p></li>
+<li><p>develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigenvectors, both computationally and geometrically, and</p></li>
 <li><p>get an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates.</p></li>
 </ol>
 </section>
@@ -565,7 +565,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/fNBU\.github\.io\/linearity-landing\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
