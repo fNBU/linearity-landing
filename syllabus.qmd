@@ -32,7 +32,7 @@ Your final grade will be determined by the extent to which you
 
 1.  become fluent in matrix algebra and determinants,
 
-1.  develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigen vectors, both computationally and geometrically, and
+1.  develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigenvectors, both computationally and geometrically, and
 
 1.  get an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates. 
 

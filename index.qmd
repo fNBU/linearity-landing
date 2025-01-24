@@ -4,3 +4,4 @@ title: "Linear Algebra (Spring 2025)"
 
 Resources for Linear Algebra (Spring 2025) (34851).
 
+You might be looking for my [course notes](https://fnbu.pw/linearity-book/).
