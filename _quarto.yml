@@ -8,14 +8,13 @@ website:
       - href: index.qmd
         text: Home
       - syllabus.qmd
+      - notes.qmd
 
 format:
   html:    
     theme:
       light: cosmo
-      dark: [cosmo, theme-dark.scss]
-
-    css: styles.css
+      # dark: [cosmo, theme-dark.scss]
     toc: true
 
 
