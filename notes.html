@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Syllabus – Linear Algebra</title>
+<title>notes – Linear Algebra</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -101,35 +67,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -155,11 +92,11 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./syllabus.html" aria-current="page"> 
+    <a class="nav-link" href="./syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./notes.html"> 
+    <a class="nav-link active" href="./notes.html" aria-current="page"> 
 <span class="menu-text">Course notes</span></a>
   </li>  
 </ul>
@@ -178,156 +115,27 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#objective" id="toc-objective" class="nav-link active" data-scroll-target="#objective">Objective</a></li>
-  <li><a href="#goals" id="toc-goals" class="nav-link" data-scroll-target="#goals">Goals</a></li>
-  <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading">Grading</a></li>
-  <li><a href="#course-notes" id="toc-course-notes" class="nav-link" data-scroll-target="#course-notes">Course notes</a>
-  <ul class="collapse">
-  <li><a href="#other-resources" id="toc-other-resources" class="nav-link" data-scroll-target="#other-resources">Other resources</a></li>
-  </ul></li>
-  <li><a href="#office-hours" id="toc-office-hours" class="nav-link" data-scroll-target="#office-hours">Office hours</a>
-  <ul class="collapse">
-  <li><a href="#adams-availability" id="toc-adams-availability" class="nav-link" data-scroll-target="#adams-availability">Adam’s availability</a></li>
-  </ul></li>
-  <li><a href="#assessments" id="toc-assessments" class="nav-link" data-scroll-target="#assessments">Assessments</a>
-  <ul class="collapse">
-  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a></li>
-  <li><a href="#quizzes" id="toc-quizzes" class="nav-link" data-scroll-target="#quizzes">Quizzes</a></li>
-  <li><a href="#exams" id="toc-exams" class="nav-link" data-scroll-target="#exams">Exams</a></li>
-  </ul></li>
+  <li><a href="#course-notes" id="toc-course-notes" class="nav-link active" data-scroll-target="#course-notes">Course notes</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Syllabus</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">course</span><span class="kw">:</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">title</span><span class="kw">:</span><span class="at"> Linear Algebra</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">instructor</span><span class="kw">:</span><span class="at"> </span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">name</span><span class="kw">:</span><span class="at"> Adam Layne</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">email</span><span class="kw">:</span><span class="at"> adamlayne@lclark.edu</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">office</span><span class="kw">:</span><span class="at"> BoDine 304 (Andy's office)</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">office hours</span><span class="kw">:</span><span class="at"> Monday, Tuesday, Thursday,</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="at">      Friday 10:30AM - 11:30AM</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">notes</span><span class="kw">:</span><span class="at"> https://fnbu.pw/linearity-book/</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">time</span><span class="kw">:</span><span class="at"> Monday, Tuesday, Thursday,</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="at">    Friday 11:30AM - 12:30PM</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">location</span><span class="kw">:</span><span class="at"> John R. Howard Hall, </span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="at">    Room 135</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<section id="objective" class="level2">
-<h2 class="anchored" data-anchor-id="objective">Objective</h2>
-<p>To learn how to employ and work with vectors and matrices in finite dimensional vector spaces (<span class="math inline">\(\mathbb R^2, \mathbb R^3, \mathbb R^n\)</span>) and abstract (including infinite dimensional) vector spaces.</p>
-</section>
-<section id="goals" class="level2">
-<h2 class="anchored" data-anchor-id="goals">Goals</h2>
-<p>Your final grade will be determined by the extent to which you</p>
-<ol type="1">
-<li><p>(further) develop spatial reasoning based on ideas of vectors and dot-products,</p></li>
-<li><p>become fluent in solving linear systems of equations with or without parameters, and gain an understanding of what the solutions represent geometrically,</p></li>
-<li><p>become fluent in matrix algebra and determinants,</p></li>
-<li><p>develop an ability to work with concepts of determinant, rank, nullity, eigenvalues and eigenvectors, both computationally and geometrically, and</p></li>
-<li><p>get an idea of abstract vector spaces and ways in which to represent abstract linear algebra in coordinates; develop fluency in changing bases and coordinates.</p></li>
-</ol>
-</section>
-<section id="grading" class="level2">
-<h2 class="anchored" data-anchor-id="grading">Grading</h2>
-<p>Your final letter grade is based on the evidence I have that you accomplished the goals in the previous section. To help me make this assessment, I will assign and record grades for the following types of work:</p>
+<section id="course-notes" class="level1">
+<h1>Course notes</h1>
+<p>Elan Acevedo has generously offered to provide their course notes. Find them below.</p>
+<p>Thanks Elan!</p>
 <ul>
-<li>weekly homework assignments, due the first class day of the week, starting in week 2</li>
-<li>weekly quizzes, at the beginning of the second class day of the week, starting in week 2</li>
-<li>one or two midterm exams</li>
-<li>a final exam</li>
-</ul>
-<p>More information on the format of these and their grading can be found below (<a href="#assessments">Assessments</a>).</p>
-</section>
-<section id="course-notes" class="level2">
-<h2 class="anchored" data-anchor-id="course-notes">Course notes</h2>
-<p>The authoritative resource for the material covered in this class are the lectures; you should come to all lectures and, if notes benefit you, take them. I am writing up notes in an open-source form available at <a href="https://fnbu.pw/linearity-book/">https://fnbu.pw/linearity-book/</a>. This document is also where the course exercises will appear. I may or may not keep up to pace with the electronic notes; again, the lectures are the authoritative source for the material.</p>
-<section id="other-resources" class="level3">
-<h3 class="anchored" data-anchor-id="other-resources">Other resources</h3>
-<p>When I was in graduate school, I learned that learning a subject from two or three texts that take different approaches is a good pattern of learning for me. If you want to see other presentations of the material in this course, you might have a look at the following books which are both 0-cost and recently updated.</p>
-<ul>
-<li><em>Linear Algebra</em> by Jim Hefferon. This book begins rather differently than my course, but is otherwise a quality text. Note that it is a bit complicated to acquire the free pdf:
-<ol type="1">
-<li>go to the book’s page on leanpub <a href="https://leanpub.com/linalgebra">https://leanpub.com/linalgebra</a></li>
-<li>slide the “YOU PAY” slider to $0 (Hefferon doesn’t get any money even if you put it above $0)</li>
-<li>proceed with the purchase (which requires your email address)</li>
-</ol></li>
-<li><em>Understanding Linear Algebra</em> by David Austin is also a reasonable resource. Get it at <a href="https://understandinglinearalgebra.org/home.html">https://understandinglinearalgebra.org/home.html</a>.</li>
-</ul>
-</section>
-</section>
-<section id="office-hours" class="level2">
-<h2 class="anchored" data-anchor-id="office-hours">Office hours</h2>
-<p>The hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.</p>
-<section id="adams-availability" class="level3">
-<h3 class="anchored" data-anchor-id="adams-availability">Adam’s availability</h3>
-<p>I’m an adjunct professor; at LC, I’m not employed full-time and this is the only course I’m teaching this term. I may not be available in my office as many hours as you are used to from other professors.</p>
-<p>I’m using Paul’s door code to indicate my availability:</p>
-<ul>
-<li>Door open: Please come in and ask questions! (If my office hours have started but my door is not in this state, please knock gently.)</li>
-<li>Door cracked: I’m busy but here. You might be able to get help, but I might say no.</li>
-<li>Door closed: I’m not in the office, or I am in but am not to be disturbed.</li>
-</ul>
-</section>
-</section>
-<section id="assessments" class="level2">
-<h2 class="anchored" data-anchor-id="assessments">Assessments</h2>
-<p>Here are details on the three kinds of assessments that will be assigned.</p>
-<section id="homework" class="level3">
-<h3 class="anchored" data-anchor-id="homework">Homework</h3>
-<p>Homework exercises will be assigned weekly from the <a href="#notes">course notes</a>.</p>
-<p>Not all problems will be assigned. If you want more practice, you can do the unassigned problems or ask for recommended problems from the <a href="#other-resources">other resources</a>.</p>
-<p>Homework will be peer-reviewed. Each week, I will tell you another student in the class who will review your work, this person will be different each week. I will take the time spent reviewing into consideration when choosing how much work to assign.</p>
-<p>You will give your homework to your reviewer, and receive a homework from another student. On Friday, you will return this student’s reviewed homework to me in class.</p>
-<p>I STRONGLY encourage you to meet in one or more groups outside of class time to do the review collaboratively.</p>
-<p>I will look over the reviewed homework and record numerical grades, then return the homeworks (hopefully on Monday).</p>
-<section id="review-rubric" class="level4">
-<h4 class="anchored" data-anchor-id="review-rubric">Review rubric</h4>
-<p>When you are reviewing another student’s homework, you will not assign numerical grades. (I will do that after I collect the reviewed assignments.)</p>
-<p>Write (the latin letters should be in ALL CAPITAL) next to each problem one of the following</p>
-<ul>
-<li>GREAT: the problem is correct and there are no issues of clarity</li>
-<li>GREAT <span class="math inline">\(-\varepsilon\)</span>: the problem is correct except for one or two small errors that don’t indicate a lack of understanding (eg copying a line, but writing 2 instead of 3, accidentally changing a <span class="math inline">\(+\)</span> to a <span class="math inline">\(-\)</span>). There are no issues of clarity except for those introduced by the small error. You should clearly mark the small error(s) justifying the <span class="math inline">\(-\varepsilon\)</span>.</li>
-<li>UNCLEAR: the problem looks complete, but isn’t correct because of a mistake in methodology (an incorrect technique is used to solve the problem, or a correct technique is used incorrectly). You should write a comment about what you think was attempted and a hint toward a better solution (“try … when you see …”).</li>
-<li>INCOMPLETE: the problem is not finished in a major way.</li>
-<li>MISSING: the problem was assigned but there is no solution, or there is only the stub of a solution.</li>
-</ul>
-</section>
-</section>
-<section id="quizzes" class="level3">
-<h3 class="anchored" data-anchor-id="quizzes">Quizzes</h3>
-<p>Quizzes of 2 or 3 questions will happen each week (during the first 10 minutes of class) to check that you’re keeping pace with the course. These are graded directly by me.</p>
-</section>
-<section id="exams" class="level3">
-<h3 class="anchored" data-anchor-id="exams">Exams</h3>
-<p>There will be one or two midterm exams (depending on the pace of the course). The exams have an in-class (50% of exam grade) and take-home (50% of exam grade) portion.</p>
-<ul>
-<li>In-class: The in-class exam is designed to be completed within 60 minutes, without notes or technology</li>
-<li>Take-home: The take-home exam is <em>exactly the same</em> as the in-class exam. You may use whatever resources you want, and may work in groups to complete it. However, you must write out your own solutions and may not copy a solution word-for-word from someone else.</li>
+<li><a href="./notes/Class 1 notes Jan 21%2C 2025.pdf">Class 1 notes Jan 21, 2025</a></li>
+<li><a href="./notes/Class 2 notes Jan 23%2C 2025.pdf">Class 2 notes Jan 23, 2025</a></li>
+<li><a href="./notes/Class 3 notes Jan 24%2C 2025.pdf">Class 3 notes Jan 24, 2025</a></li>
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
