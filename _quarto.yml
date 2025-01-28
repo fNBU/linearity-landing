@@ -11,12 +11,12 @@ website:
         text: Home
       - syllabus.qmd
       - notes.qmd
+      - homework.qmd
 
 format:
   html:    
     theme:
       light: cosmo
-      # dark: [cosmo, theme-dark.scss]
     toc: true
 
 
