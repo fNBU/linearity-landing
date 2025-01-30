@@ -1,5 +1,7 @@
 # Homework assignments
 
+Problems with an asterisk (*) had corrections applied after the homework was initially assigned.
+
 1. Due for review Feb 3. Review due Feb 6.
 
-   *Linearity* exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3, 3.4
+   *Linearity* exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3*, 3.4
