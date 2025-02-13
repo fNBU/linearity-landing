@@ -1,0 +1,13 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto",
+        "tomoki1207.pdf"
+      ]
+    }
+  }
+}
