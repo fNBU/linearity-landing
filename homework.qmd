@@ -16,4 +16,4 @@ Problems with an asterisk (*) had corrections applied after the homework was ini
 
 1. Due for review Feb 24. Review due Feb 27.
 
-   *Linearity* exercises TBD
+   *Linearity* exercises 4.10, 4.11, 6.1, 6.2, 6.3, 6.4
