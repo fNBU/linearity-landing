@@ -10,8 +10,10 @@ course:
     email: adamlayne@lclark.edu
     office: BoDine 304 (Andy's office)
     office hours: 
-      - Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM
-      - Monday, Friday: 3:00PM - 4:00PM
+      - Monday, Tuesday, Thursday, Friday 
+        10:30AM - 11:30AM
+      - Monday, Friday 
+        3:00PM - 4:00PM
   notes: https://fnbu.pw/linearity-book/
   time: Monday, Tuesday, Thursday,
     Friday 11:30AM - 12:30PM
