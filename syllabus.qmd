@@ -9,8 +9,9 @@ course:
     name: Adam Layne
     email: adamlayne@lclark.edu
     office: BoDine 304 (Andy's office)
-    office hours: Monday, Tuesday, Thursday,
-      Friday 10:30AM - 11:30AM
+    office hours: 
+      - Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM
+      - Monday, Friday: 3:00PM - 4:00PM
   notes: https://fnbu.pw/linearity-book/
   time: Monday, Tuesday, Thursday,
     Friday 11:30AM - 12:30PM
@@ -43,7 +44,9 @@ To help me make this assessment, I will assign and record grades for the followi
 
 - weekly homework assignments, due the first class day of the week, starting in week 3
 - weekly quizzes, at the beginning of the second class day of the week, starting in week 3
-- one or two midterm exams
+- midterm exams
+  - Thursday of week 8
+  - time TBD
 - a final exam
 
 More information on the format of these and their grading can be found below ([Assessments](#assessments)).
@@ -68,7 +71,8 @@ If you want to see other presentations of the material in this course, you might
 
 ## Office hours
 
-The hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.
+- The hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.
+- Monday, Friday: 3:00PM - 4:00PM
 
 ### Adam's availability
 

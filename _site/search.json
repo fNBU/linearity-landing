@@ -4,7 +4,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "course:\n  title: Linear Algebra\n  instructor: \n    name: Adam Layne\n    email: adamlayne@lclark.edu\n    office: BoDine 304 (Andy's office)\n    office hours: Monday, Tuesday, Thursday,\n      Friday 10:30AM - 11:30AM\n  notes: https://fnbu.pw/linearity-book/\n  time: Monday, Tuesday, Thursday,\n    Friday 11:30AM - 12:30PM\n  location: John R. Howard Hall, \n    Room 135"
+    "text": "course:\n  title: Linear Algebra\n  instructor: \n    name: Adam Layne\n    email: adamlayne@lclark.edu\n    office: BoDine 304 (Andy's office)\n    office hours: \n      - Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM\n      - Monday, Friday: 3:00PM - 4:00PM\n  notes: https://fnbu.pw/linearity-book/\n  time: Monday, Tuesday, Thursday,\n    Friday 11:30AM - 12:30PM\n  location: John R. Howard Hall, \n    Room 135"
   },
   {
     "objectID": "syllabus.html#objective",
@@ -25,7 +25,7 @@
     "href": "syllabus.html#grading",
     "title": "Syllabus",
     "section": "Grading",
-    "text": "Grading\nYour final letter grade is based on the evidence I have that you accomplished the goals in the previous section. To help me make this assessment, I will assign and record grades for the following types of work:\n\nweekly homework assignments, due the first class day of the week, starting in week 3\nweekly quizzes, at the beginning of the second class day of the week, starting in week 3\none or two midterm exams\na final exam\n\nMore information on the format of these and their grading can be found below (Assessments)."
+    "text": "Grading\nYour final letter grade is based on the evidence I have that you accomplished the goals in the previous section. To help me make this assessment, I will assign and record grades for the following types of work:\n\nweekly homework assignments, due the first class day of the week, starting in week 3\nweekly quizzes, at the beginning of the second class day of the week, starting in week 3\nmidterm exams\n\nThursday of week 8\ntime TBD\n\na final exam\n\nMore information on the format of these and their grading can be found below (Assessments)."
   },
   {
     "objectID": "syllabus.html#course-notes",
@@ -39,7 +39,7 @@
     "href": "syllabus.html#office-hours",
     "title": "Syllabus",
     "section": "Office hours",
-    "text": "Office hours\nThe hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.\n\nAdam’s availability\nI’m an adjunct professor; at LC, I’m not employed full-time and this is the only course I’m teaching this term. I may not be available in my office as many hours as you are used to from other professors.\nI’m using Paul’s door code to indicate my availability:\n\nDoor open: Please come in and ask questions! (If my office hours have started but my door is not in this state, please knock gently.)\nDoor cracked: I’m busy but here. You might be able to get help, but I might say no.\nDoor closed: I’m not in the office, or I am in but am not to be disturbed."
+    "text": "Office hours\n\nThe hour before class: Monday, Tuesday, Thursday, Friday 10:30AM - 11:30AM.\nMonday, Friday: 3:00PM - 4:00PM\n\n\nAdam’s availability\nI’m an adjunct professor; at LC, I’m not employed full-time and this is the only course I’m teaching this term. I may not be available in my office as many hours as you are used to from other professors.\nI’m using Paul’s door code to indicate my availability:\n\nDoor open: Please come in and ask questions! (If my office hours have started but my door is not in this state, please knock gently.)\nDoor cracked: I’m busy but here. You might be able to get help, but I might say no.\nDoor closed: I’m not in the office, or I am in but am not to be disturbed."
   },
   {
     "objectID": "syllabus.html#assessments",
@@ -60,7 +60,7 @@
     "href": "notes.html",
     "title": "Course notes",
     "section": "",
-    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025"
+    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025\nClass 20 notes Feb 27, 2025\nClass 21 notes Feb 28, 2025"
   },
   {
     "objectID": "notes copy.html",
@@ -74,6 +74,6 @@
     "href": "homework.html",
     "title": "Homework assignments",
     "section": "",
-    "text": "Homework assignments\nProblems with an asterisk (*) had corrections applied after the homework was initially assigned.\n\n\n\n\n\n\n\n\n\nassignment\ndue for review\nquiz\nreview due\n\n\n\n\nLinearity exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3*, 3.4\nFeb 3\nFeb 4\nFeb 6\n\n\nLinearity exercises 3.5, 3.6, 3.8, 3.10, 3.11, 3.13\nFeb 10\nFeb 11\nFeb 13 18\n\n\nLinearity exercises 3.16, 4.1, 4.4, 4.5, 4.6, 4.8*, 4.9\nFeb 17 20\nFeb 21\nFeb 20 24\n\n\nLinearity exercises 4.10, 4.11, 6.1, 6.2, 6.3, 6.4\nFeb 24 25\nFeb 27\nFeb 27 28\n\n\nLinearity exercises TBD\nMar 4\nMar 6\nMar 7"
+    "text": "Homework assignments\nProblems with an asterisk (*) had corrections applied after the homework was initially assigned.\n\n\n\n\n\n\n\n\n\nassignment\ndue for review\nquiz\nreview due\n\n\n\n\nLinearity exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3*, 3.4\nFeb 3\nFeb 4\nFeb 6\n\n\nLinearity exercises 3.5, 3.6, 3.8, 3.10, 3.11, 3.13\nFeb 10\nFeb 11\nFeb 13 18\n\n\nLinearity exercises 3.16, 4.1, 4.4, 4.5, 4.6, 4.8*, 4.9\nFeb 17 20\nFeb 21\nFeb 20 24\n\n\nLinearity exercises 4.10, 4.11, 6.1, 6.2, 6.3, 6.4\nFeb 24 25\nFeb 27\nFeb 27 28\n\n\nLinearity exercises 6.5, 6.6, 6.7*, 6.8, 6.9, 7.1, 7.2\nMar 4\nMar 6\nMar 7\n\n\nLinearity exercises TBD\nMar 10\nMar 11\nMar 13"
   }
 ]
