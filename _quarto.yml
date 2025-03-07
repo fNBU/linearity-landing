@@ -12,6 +12,7 @@ website:
       - syllabus.qmd
       - notes.qmd
       - homework.qmd
+      - exams.qmd
 
 format:
   html:    

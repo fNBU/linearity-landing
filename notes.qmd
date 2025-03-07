@@ -26,4 +26,6 @@ Thanks Elan!
 - [Class 19 notes Feb 25, 2025](./notes/Class%2019%20notes%20Feb%2025%2C%202025.pdf)
 - [Class 20 notes Feb 27, 2025](./notes/Class%2020%20notes%20Feb%2027%2C%202025.pdf)
 - [Class 21 notes Feb 28, 2025](./notes/Class%2021%20notes%20Feb%2028%2C%202025.pdf)
-
+- [Class 22 notes Mar 3, 2025](./notes/Class%2022%20notes%20Mar%203%2C%202025.pdf)
+- [Class 23 notes Mar 4, 2025](./notes/Class%2023%20notes%20Mar%204%2C%202025.pdf)
+- [Class 24 notes Mar 6, 2025](./notes/Class%2024%20notes%20Mar%206%2C%202025.pdf)

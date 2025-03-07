@@ -1,6 +1,4 @@
----
-title: "Syllabus"
----
+# Syllabus
 
 ```yaml
 course:
