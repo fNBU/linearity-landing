@@ -4,7 +4,7 @@
     "href": "notes.html",
     "title": "Course notes",
     "section": "",
-    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025\nClass 20 notes Feb 27, 2025\nClass 21 notes Feb 28, 2025\nClass 22 notes Mar 3, 2025\nClass 23 notes Mar 4, 2025\nClass 24 notes Mar 6, 2025"
+    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025\nClass 20 notes Feb 27, 2025\nClass 21 notes Feb 28, 2025\nClass 22 notes Mar 3, 2025\nClass 23 notes Mar 4, 2025\nClass 24 notes Mar 6, 2025\nClass 25 notes Mar 7, 2025\nClass 26 notes Mar 10, 2025\nClass 27 notes Mar 11, 2025\nClass 28 notes Mar 14, 2025"
   },
   {
     "objectID": "homework.html",
@@ -74,7 +74,7 @@
     "href": "exams.html",
     "title": "Exams",
     "section": "",
-    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam.\n\n\n\n\nThe first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions). more practice problems forthcoming\n\nBeezer1\n\np219: C15 - C20,\n\nBoyd, Vandenberghe2\n\np43: 2.4\n\nHefferon3 (Hefferon uses the word homomorphism for what we call a linear function)\n\np196 and following: 1.18, 1.20, 1.22, 1.34(a), 1.41(a-c)\n\nTreil4\n\np17: 3.6\n\n\n\n\n\n\nThe second exam takes place in class on TBD."
+    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam.\n\n\n\n\nThe first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20.\n\n\n\n\nThe second exam takes place in class on TBD."
   },
   {
     "objectID": "exams.html#general-exam-info",
@@ -88,7 +88,7 @@
     "href": "exams.html#exam-1",
     "title": "Exams",
     "section": "",
-    "text": "The first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions). more practice problems forthcoming\n\nBeezer1\n\np219: C15 - C20,\n\nBoyd, Vandenberghe2\n\np43: 2.4\n\nHefferon3 (Hefferon uses the word homomorphism for what we call a linear function)\n\np196 and following: 1.18, 1.20, 1.22, 1.34(a), 1.41(a-c)\n\nTreil4\n\np17: 3.6"
+    "text": "The first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20."
   },
   {
     "objectID": "exams.html#exam-2",
@@ -96,12 +96,5 @@
     "title": "Exams",
     "section": "",
     "text": "The second exam takes place in class on TBD."
-  },
-  {
-    "objectID": "exams.html#footnotes",
-    "href": "exams.html#footnotes",
-    "title": "Exams",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nRobert A. Beezer, A First Course in Linear Algebra http://linear.ups.edu/download/fcla-3.50-print.pdf↩︎\nStephen Boyd, Lieven Vandenberghe, Introduction to Applied Linear Algebra https://web.stanford.edu/~boyd/vmls/vmls.pdf↩︎\nJim Hefferon, Linear Algebra 4th ed. The procedure to acquire the free pdf of this book is described in the syllabus:↩︎\nSergei Treil. Linear Algebra Done Wrong https://www.math.brown.edu/~treil/papers/LADW/LADW_2024_10-01.pdf↩︎"
   }
 ]
