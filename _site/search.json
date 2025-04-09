@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework assignments",
+    "section": "",
+    "text": "Homework assignments\nProblems with an asterisk (*) had corrections applied after the homework was initially assigned.\n\n\n\n\n\n\n\n\n\nassignment\ndue for review\nquiz\nreview due\n\n\n\n\nLinearity exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3*, 3.4\nFeb 3\nFeb 4\nFeb 6\n\n\nLinearity exercises 3.5, 3.6, 3.8, 3.10, 3.11, 3.13\nFeb 10\nFeb 11\nFeb 13 18\n\n\nLinearity exercises 3.16, 4.1, 4.4, 4.5, 4.6, 4.8*, 4.9\nFeb 17 20\nFeb 21\nFeb 20 24\n\n\nLinearity exercises 4.10, 4.11, 6.1, 6.2, 6.3, 6.4\nFeb 24 25\nFeb 27\nFeb 27 28\n\n\nLinearity exercises 6.5, 6.6, 6.7*, 6.8, 6.9, 7.1, 7.2\nMar 4\nMar 6\nMar 7\n\n\nLinearity exercises 8.1 - 8.14\nMar 17\nMar 18\nMar 20\n\n\nLinearity exercises 9.1 - 9.3 , 10.1 - 10.4\nApr 10\nApr 11 14\nApr 12 15\n\n\nLinearity exercises TBD\nApr 15\nApr 16\nApr 17"
+  },
+  {
+    "objectID": "exams.html",
+    "href": "exams.html",
+    "title": "Exams",
+    "section": "",
+    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam.\n\n\n\n\nThe first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20.\n\n\n\n\nThe first exam takes place in class on April 24.\n\nThe exam will cover through homework/quiz 8. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on May 1."
+  },
+  {
+    "objectID": "exams.html#general-exam-info",
+    "href": "exams.html#general-exam-info",
+    "title": "Exams",
+    "section": "",
+    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam."
+  },
+  {
+    "objectID": "exams.html#exam-1",
+    "href": "exams.html#exam-1",
+    "title": "Exams",
+    "section": "",
+    "text": "The first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20."
+  },
+  {
+    "objectID": "exams.html#exam-2",
+    "href": "exams.html#exam-2",
+    "title": "Exams",
+    "section": "",
+    "text": "The first exam takes place in class on April 24.\n\nThe exam will cover through homework/quiz 8. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on May 1."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Course notes",
+    "section": "",
+    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025\nClass 20 notes Feb 27, 2025\nClass 21 notes Feb 28, 2025\nClass 22 notes Mar 3, 2025\nClass 23 notes Mar 4, 2025\nClass 24 notes Mar 6, 2025\nClass 25 notes Mar 7, 2025\nClass 26 notes Mar 10, 2025\nClass 27 notes Mar 11, 2025\nClass 28 notes Mar 14, 2025\nClass 29 notes Mar 18, 2025\nClass 30 notes Mar 20, 2025\nClass 31 notes Mar 21, 2025\nClass 32 notes Mar 31, 2025\nClass 34 notes Apr 3, 2025\nClass 35 notes Apr 4, 2025\nClass 36 notes Apr 7, 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linear Algebra (Spring 2025)",
+    "section": "",
+    "text": "Resources for Linear Algebra (Spring 2025) (34851).\nYou might be looking for my course notes."
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -47,68 +96,5 @@
     "title": "Syllabus",
     "section": "",
     "text": "Here are details on the three kinds of assessments that will be assigned.\n\n\nHomework exercises will be assigned weekly from the course notes.\nNot all problems will be assigned. If you want more practice, you can do the unassigned problems or ask for recommended problems from the other resources.\nHomework will be peer-reviewed. Each week, I will tell you another student in the class who will review your work, this person will be different each week. I will take the time spent reviewing into consideration when choosing how much work to assign.\nYou will give your homework to your reviewer, and receive a homework from another student. On Friday, you will return this student’s reviewed homework to me in class.\nI STRONGLY encourage you to meet in one or more groups outside of class time to do the review collaboratively.\nI will look over the reviewed homework and record numerical grades, then return the homeworks (hopefully on Monday).\n\n\nWhen you are reviewing another student’s homework, you will not assign numerical grades. (I will do that after I collect the reviewed assignments.)\nWrite (the latin letters should be in ALL CAPITAL) next to each problem one of the following\n\nGREAT: the problem is correct and there are no issues of clarity\nGREAT \\(-\\varepsilon\\): the problem is correct except for one or two small errors that don’t indicate a lack of understanding (eg copying a line, but writing 2 instead of 3, accidentally changing a \\(+\\) to a \\(-\\)). There are no issues of clarity except for those introduced by the small error. You should clearly mark the small error(s) justifying the \\(-\\varepsilon\\).\nUNCLEAR: the problem looks complete, but isn’t correct because of a mistake in methodology (an incorrect technique is used to solve the problem, or a correct technique is used incorrectly). You should write a comment about what you think was attempted and a hint toward a better solution (“try … when you see …”).\nINCOMPLETE: the problem is not finished in a major way.\nMISSING: the problem was assigned but there is no solution, or there is only the stub of a solution.\n\n\n\n\n\nQuizzes of 2 or 3 questions will happen each week (during the first 10 minutes of class) to check that you’re keeping pace with the course. These are graded directly by me.\n\n\n\nThere will be one or two midterm exams (depending on the pace of the course). The exams have an in-class (50% of exam grade) and take-home (50% of exam grade) portion.\n\nIn-class: The in-class exam is designed to be completed within 60 minutes, without notes or technology\nTake-home: The take-home exam is exactly the same as the in-class exam. You may use whatever resources you want, and may work in groups to complete it. However, you must write out your own solutions and may not copy a solution word-for-word from someone else."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Linear Algebra (Spring 2025)",
-    "section": "",
-    "text": "Resources for Linear Algebra (Spring 2025) (34851).\nYou might be looking for my course notes."
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Course notes",
-    "section": "",
-    "text": "Course notes\nElan Acevedo has generously offered to provide their course notes. Find them below.\nThanks Elan!\n\nClass 1 notes Jan 21, 2025\nClass 2 notes Jan 23, 2025\nClass 3 notes Jan 24, 2025\nClass 4 notes Jan 27, 2025\nClass 5 notes Jan 28, 2025\nClass 6 notes Jan 30, 2025\nClass 7 notes Jan 31, 2025\nClass 8 notes Feb 3, 2025\nClass 9 notes Feb 4, 2025\nClass 10 notes Feb 6, 2025\nClass 11 notes Feb 7, 2025\nClass 12 notes Feb 10, 2025\nClass 13 notes Feb 11, 2025\nClass 14 notes Feb 17, 2025\nClass 15 notes Feb 18, 2025\nClass 15 notes Feb 18, 2025\nClass 17 notes Feb 21, 2025\nClass 18 notes Feb 24, 2025\nClass 19 notes Feb 25, 2025\nClass 20 notes Feb 27, 2025\nClass 21 notes Feb 28, 2025\nClass 22 notes Mar 3, 2025\nClass 23 notes Mar 4, 2025\nClass 24 notes Mar 6, 2025\nClass 25 notes Mar 7, 2025\nClass 26 notes Mar 10, 2025\nClass 27 notes Mar 11, 2025\nClass 28 notes Mar 14, 2025"
-  },
-  {
-    "objectID": "notes copy.html",
-    "href": "notes copy.html",
-    "title": "Homework assignments",
-    "section": "",
-    "text": "Homework assignments"
-  },
-  {
-    "objectID": "homework.html",
-    "href": "homework.html",
-    "title": "Homework assignments",
-    "section": "",
-    "text": "Homework assignments\nProblems with an asterisk (*) had corrections applied after the homework was initially assigned.\n\n\n\n\n\n\n\n\n\nassignment\ndue for review\nquiz\nreview due\n\n\n\n\nLinearity exercises 1.1, 1.3, 1.5, 2.1, 2.5, 2.7, 3.1, 3.3*, 3.4\nFeb 3\nFeb 4\nFeb 6\n\n\nLinearity exercises 3.5, 3.6, 3.8, 3.10, 3.11, 3.13\nFeb 10\nFeb 11\nFeb 13 18\n\n\nLinearity exercises 3.16, 4.1, 4.4, 4.5, 4.6, 4.8*, 4.9\nFeb 17 20\nFeb 21\nFeb 20 24\n\n\nLinearity exercises 4.10, 4.11, 6.1, 6.2, 6.3, 6.4\nFeb 24 25\nFeb 27\nFeb 27 28\n\n\nLinearity exercises 6.5, 6.6, 6.7*, 6.8, 6.9, 7.1, 7.2\nMar 4\nMar 6\nMar 7\n\n\nLinearity exercises 8.1 - 8.14\nMar 17\nMar 18\nMar 20\n\n\nLinearity exercises TBD\nMar 17\nMar 18\nMar 20"
-  },
-  {
-    "objectID": "exams.html",
-    "href": "exams.html",
-    "title": "Exams",
-    "section": "",
-    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam.\n\n\n\n\nThe first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20.\n\n\n\n\nThe second exam takes place in class on TBD."
-  },
-  {
-    "objectID": "exams.html#footnotes",
-    "href": "exams.html#footnotes",
-    "title": "Exams",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nRobert A. Beezer, A First Course in Linear Algebra http://linear.ups.edu/download/fcla-3.50-print.pdf↩︎\nStephen Boyd, Lieven Vandenberghe, Introduction to Applied Linear Algebra https://web.stanford.edu/~boyd/vmls/vmls.pdf↩︎\nJim Hefferon, Linear Algebra 4th ed. The procedure to acquire the free pdf of this book is described in the syllabus:↩︎\nSergei Treil. Linear Algebra Done Wrong https://www.math.brown.edu/~treil/papers/LADW/LADW_2024_10-01.pdf↩︎"
-  },
-  {
-    "objectID": "exams.html#general-exam-info",
-    "href": "exams.html#general-exam-info",
-    "title": "Exams",
-    "section": "",
-    "text": "The exams are designed to occupy the entire class period.\nYou should only have a writing tool, no notes, calculators, etc are allowed. I will bring some scratch paper. If you use it, mark your name on each page and staple it to your exam."
-  },
-  {
-    "objectID": "exams.html#exam-1",
-    "href": "exams.html#exam-1",
-    "title": "Exams",
-    "section": "",
-    "text": "The first exam takes place in class on March 13.\n\nThe exam will cover through homework/quiz 5. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.\nIf you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).\nThe take-home portion of the exam is due in class on March 20."
-  },
-  {
-    "objectID": "exams.html#exam-2",
-    "href": "exams.html#exam-2",
-    "title": "Exams",
-    "section": "",
-    "text": "The second exam takes place in class on TBD."
   }
 ]

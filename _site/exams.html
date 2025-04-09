@@ -158,7 +158,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="exam-2" class="level2">
 <h2 class="anchored" data-anchor-id="exam-2">Exam 2</h2>
-<p>The second exam takes place in class on TBD.</p>
+<p>The first exam takes place in class on April 24.</p>
+<ul>
+<li>The exam will cover through homework/quiz 8. I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.</li>
+<li>If you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won’t be providing solutions).</li>
+<li>The take-home portion of the exam is due in class on May 1.</li>
+</ul>
 
 
 </section>
@@ -255,7 +260,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/fNBU\.github\.io\/linearity-landing\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -18,7 +18,12 @@ The first exam takes place in class on March 13.
 
 ## Exam 2
 
-The second exam takes place in class on TBD.
+The first exam takes place in class on April 24.
+
+- The exam will cover through homework/quiz 8.
+  I will only ask questions that are similar to what is on the homework and quizzes. Those are your study materials.
+- If you would like additional practice problems, consider these (you can talk about them with me in office hours, but I won't be providing solutions).
+- The take-home portion of the exam is due in class on May 1.
 
 [^beezer]: Robert A. Beezer, *A First Course in Linear Algebra* [http://linear.ups.edu/download/fcla-3.50-print.pdf](http://linear.ups.edu/download/fcla-3.50-print.pdf)
 
